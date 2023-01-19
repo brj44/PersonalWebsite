@@ -4,7 +4,7 @@ const Homepage = () =>{
 return(
     <>
         <div className={"gridContainer"}>
-            <img src={profileImg} alt={"Profile Picture"} className={"profileImg"}/>
+            <img src={profileImg} alt={"Profile"} className={"profileImg"}/>
             <div className={"mainTextbox"}>
                 <h2>About Me:</h2>
                 <p>
