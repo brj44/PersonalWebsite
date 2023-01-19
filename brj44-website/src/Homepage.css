@@ -1,0 +1,23 @@
+.mainTextbox{
+    margin: auto;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.profileImg{
+    width: 20vw;
+    height: 20vw;
+    margin: auto;
+}
+
+.gridContainer{
+    display: grid;
+    grid-template-columns: .5fr 1fr;
+    grid-gap: 1vw;
+    margin: 1vw;
+}
+
+a{
+    color: #88c0d0
+}

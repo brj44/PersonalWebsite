@@ -1,0 +1,15 @@
+.header{
+    text-align: center;
+}
+
+.mainTextbox{
+    margin: auto;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    white-space: pre-line;
+}
+
+a{
+    color: #88c0d0
+}
