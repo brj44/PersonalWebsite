@@ -12,6 +12,17 @@ const Resume = () => {
             </div>
             <div className={"mainTextbox"}>
                 <h3>Experience:</h3>
+
+                <b>Front-End Web Developer at <a href={"https://spexodisks.com/"}>SpexoDisks</a></b>
+                <b>January 2023 - Present</b>
+                <ul>
+                    <li>Design pages to modernize the website UI and make pages feel more homogenous.</li>
+                    <li>Create reusable components that can serve a variety of purposes on the website.</li>
+                    <li>Reformat frontend to make the pages responsive to a variety of different screen sizes.</li>
+                    <li>Communicate our project lead to convert their ideas into real components on the website.</li>
+                    <li>Collaborate with a small team to create a better overall website for our users.</li>
+                </ul>
+
                 <b>Software Development Intern at Paycom</b>
                 <b>May 2022 - August 2022</b>
                 <ul>
@@ -32,8 +43,9 @@ const Resume = () => {
                 </ul>
                 <b>References</b>
                 <ul>
+                    <li>Caleb Wheeler – Detector Readout Development Scientist: Phone 314-283-8383</li>
+                    <li>Tecpal SolisRayos - Previous Team Lead and mentor: Phone – 915-990-5187</li>
                     <li>Cheryl Contreras - Previous Employer: Work Phone - 512-245-7467</li>
-                    <li>Jannette O’Balle - Current Employer: Work Phone - 512-245-791</li>
                 </ul>
             </div>
             <div className={"mainTextbox"}>
