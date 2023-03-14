@@ -13,3 +13,7 @@
 a{
     color: #88c0d0
 }
+
+a:hover{
+    color: #d08770;
+}

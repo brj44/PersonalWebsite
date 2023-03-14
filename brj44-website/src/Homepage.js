@@ -5,7 +5,7 @@ return(
     <>
         <div className={"gridContainer"}>
             <img src={profileImg} alt={"Profile"} className={"profileImg"}/>
-            <div className={"mainTextbox"}>
+            <div className={"mainTextBox"}>
                 <h2>About Me:</h2>
                 <p>
                     I am a fourth year student at Texas State Where I am Pursuing a Bachelor of Science degree in Computer Science
