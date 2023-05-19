@@ -1,5 +1,5 @@
 import './Homepage.css';
-import profileImg from './LinkedInProfilePic.jpg';
+import profileImg from '../Assets/LinkedInProfilePic.jpg';
 const Homepage = () =>{
 return(
     <>
@@ -8,9 +8,10 @@ return(
             <div className={"mainTextBox"}>
                 <h2>About Me:</h2>
                 <p>
-                    I am a fourth year student at Texas State Where I am Pursuing a Bachelor of Science degree in Computer Science
-                    with a minor in Applied Mathematics. I am also a member of the Efficient Computing Laboratory (ECL) under
-                    Dr. Martin Burtscher. My area of research is lossless audio compression where I hope to develop a more efficient compression algorithm.
+                    I am a recent graduate from Texas State where I received a Bachelor of Science degree in Computer Science
+                    with a minor in Applied Mathematics. I was also a member of the Efficient Computing Laboratory (ECL) under
+                    Dr. Martin Burtscher where my area of research was lossless audio compression where developed a more efficient
+                    compression and decompression algorithm.
                 </p>
                 <br/>
                 <p>
@@ -23,9 +24,6 @@ return(
                 <h2>Contact:</h2>
                 <p>
                     LinkedIn: <a href="https://www.linkedin.com/in/benito-juarez-92815a221/">https://www.linkedin.com/in/benito-juarez-92815a221/</a>
-                </p>
-                <p>
-                    Texas State Email: brj44@txstate.edu
                 </p>
                 <p>
                     Personal Email: juarezb2001@gmail.com

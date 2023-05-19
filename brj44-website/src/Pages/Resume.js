@@ -8,12 +8,12 @@ const Resume = () => {
                 <b>Texas State University</b>
                 <p>Bachelor of Science in Computer Science<br/>
                 Minor in Applied Mathematics<br/>
-                Expected Graduation: May 2023</p>
+                Graduated May 2023</p>
             </div>
             <div className={"mainTextbox"}>
                 <h3>Experience:</h3>
 
-                <b>Front-End Web Developer at <a href={"https://spexodisks.com/"}>SpexoDisks</a></b>
+                <b>Front-End Web Developer @ <a href={"https://spexodisks.com/"}>SpexoDisks</a></b>
                 <b>January 2023 - Present</b>
                 <ul>
                     <li>Design pages to modernize the website UI and make pages feel more homogenous.</li>
@@ -43,7 +43,7 @@ const Resume = () => {
                 </ul>
                 <b>References</b>
                 <ul>
-                    <li>Caleb Wheeler – Detector Readout Development Scientist: Phone 314-283-8383</li>
+                    <li>Dr. Caleb Wheeler – Detector Readout Development Scientist: Phone 314-283-8383</li>
                     <li>Tecpal SolisRayos - Previous Team Lead and mentor: Phone – 915-990-5187</li>
                     <li>Cheryl Contreras - Previous Employer: Work Phone - 512-245-7467</li>
                 </ul>
@@ -73,6 +73,14 @@ const Resume = () => {
                     <li>Project was created by a team of four and progress was managed using Jira and Bitbucket.</li>
                     <li>Version control and merging of changes was completed using Git.</li>
                     <li>Website is hosted on a personal Linux machine using Apache HTTP Server Software.</li>
+                </ul>
+                <b>Parallel Lossless Audio Codec (PLAC)</b>
+                <ul>
+                    <li>Lossless audio codec aimed at WAV file compression and decompression.</li>
+                    <li>Utilizes the parallel capabilities of the CPU and GPU using OpenMP and the CUDA Framework.</li>
+                    <li>Both the CPU and GPU codecs are compatible with each other.</li>
+                    <li>Achieves higher throughput compared to ALAC, FLAC, and WavPack.</li>
+                    <li>The research project received the CS Research Excellence Award from Texas State University.</li>
                 </ul>
             </div>
             <div className={"mainTextbox"}>

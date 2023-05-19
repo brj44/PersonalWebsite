@@ -1,8 +1,8 @@
 import {useState}  from "react";
 import './App.css';
-import Homepage from "./Homepage";
-import NavBar from "./NavBar";
-import Resume from "./Resume";
+import Homepage from "./Pages/Homepage";
+import NavBar from "./Components/NavBar";
+import Resume from "./Pages/Resume";
 
 function App() {
     const [page, setPage] = useState("HOME");
