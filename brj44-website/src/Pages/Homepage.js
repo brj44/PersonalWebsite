@@ -23,10 +23,13 @@ return(
                 </p>
                 <h2>Contact:</h2>
                 <p>
+                    GitHub: <a href="https://github.com/brj44">https://github.com/brj44</a>
+                </p>
+                <p>
                     LinkedIn: <a href="https://www.linkedin.com/in/benito-juarez-92815a221/">https://www.linkedin.com/in/benito-juarez-92815a221/</a>
                 </p>
                 <p>
-                    Personal Email: juarezb2001@gmail.com
+                    Personal Email: <a href="mailto:juarezb2001@gmail.com">juarezb2001@gmail.com</a>
                 </p>
             </div>
         </div>

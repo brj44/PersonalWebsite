@@ -13,8 +13,13 @@ const Resume = () => {
             <div className={"mainTextbox"}>
                 <h3>Experience:</h3>
 
+                <b>Software Developer @ <a href={"https://www.paycom.com/"}>Paycom</a></b>
+                <b>June 2023 - Present</b>
+                <ul>
+                </ul>
+
                 <b>Front-End Web Developer @ <a href={"https://spexodisks.com/"}>SpexoDisks</a></b>
-                <b>January 2023 - Present</b>
+                <b>January 2023 - June 2023</b>
                 <ul>
                     <li>Design pages to modernize the website UI and make pages feel more homogenous.</li>
                     <li>Create reusable components that can serve a variety of purposes on the website.</li>
